@@ -1,5 +1,9 @@
 write code this is all in main branch changes
 New line
 Dumm is increasing
+<<<<<<< HEAD
 Added line 5 new from main
 
+=======
+Added line 5 add by main
+>>>>>>> 0389cef32d9673c56de93446624ed6a952bdf82d
